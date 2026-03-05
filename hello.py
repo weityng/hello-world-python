@@ -1,2 +1,3 @@
 if __name__ == '__main__':
-    print("Hello, World!")
+    name = "Weityng"
+    print(f"Hello, {name}!")
